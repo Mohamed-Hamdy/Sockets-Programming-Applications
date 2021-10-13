@@ -40,9 +40,9 @@ Java Socket programming project that allow users to use same text editor and sha
 * 3- the program will show the text editor in client side 
 
 <h4>Project Gui</h4>
-<img src="https://github.com/Mohamed-Hamdy/java-problems/blob/main/Sockets%20Programming/Online%20Text%20Editor/project%20gui.png" alt="Project Gui">
+<img src="https://github.com/Mohamed-Hamdy/Sockets-Programming-Applications/blob/master/Online%20Text%20Editor/project%20gui.png" alt="Project Gui">
 
-<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Sockets%20Programming/Online%20Text%20Editor">Project Code</a></h3>
+<h4><a href="https://github.com/Mohamed-Hamdy/Sockets-Programming-Applications/tree/master/Online%20Text%20Editor">Project Code</a></h3>
 <hr>
 
 
@@ -67,9 +67,9 @@ Java Socket programming project that allow users to use same text editor and sha
 * the veggia template will display on server side 
 
 <h4>Project Gui</h4>
-<img src="https://github.com/Mohamed-Hamdy/java-problems/blob/main/Sockets%20Programming/Http-Server-Sockets/project%20gui.png" alt="Project Gui">
+<img src="https://github.com/Mohamed-Hamdy/Sockets-Programming-Applications/blob/master/Http-Server-Sockets/project%20gui.png" alt="Project Gui">
 
-<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Sockets%20Programming/Http-Server-Sockets">Project Code</a></h3>
+<h4><a href="https://github.com/Mohamed-Hamdy/Sockets-Programming-Applications/tree/master/Http-Server-Sockets">Project Code</a></h3>
 <hr>
 
 
@@ -92,9 +92,9 @@ Java Socket programming project that allow users to use same text editor and sha
 * run EmailClientcomposeMessage
 
 <h4>Project Gui</h4>
-<img src="https://github.com/Mohamed-Hamdy/java-problems/blob/main/Sockets%20Programming/Email-Server/1.png" alt="Project Gui">
+<img src="https://github.com/Mohamed-Hamdy/Sockets-Programming-Applications/blob/master/Email-Server/1.png" alt="Project Gui">
 
-<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Sockets%20Programming/Email-Server">Project Code</a></h3>
+<h4><a href="https://github.com/Mohamed-Hamdy/Sockets-Programming-Applications/tree/master/Email-Server">Project Code</a></h3>
 
 
 <hr>
