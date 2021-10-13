@@ -106,7 +106,7 @@ Java Socket programming project that allow users to use same text editor and sha
 <h3>Chat Application</h3>
 
 problem Decription:
-
+Chat application using java sockets programming This application provides a mutual chat service between the server and the client.
 <h4>How to Run</h4>
 * First Run the Server file 
 * Run the Client file 
