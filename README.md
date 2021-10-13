@@ -14,6 +14,9 @@
       <ul>
         <li><a href="#problem_3">Email Server</a></li>
       </ul>
+      <ul>
+        <li><a href="#problem_4">Chat Application</a></li>
+      </ul>
      </li>
   </ol>
 </details>
@@ -95,6 +98,23 @@ Java Socket programming project that allow users to use same text editor and sha
 <img src="https://github.com/Mohamed-Hamdy/Sockets-Programming-Applications/blob/master/Email-Server/1.png" alt="Project Gui">
 
 <h4><a href="https://github.com/Mohamed-Hamdy/Sockets-Programming-Applications/tree/master/Email-Server">Project Code</a></h3>
+
+
+<hr>
+
+### problem_4
+<h3>Chat Application</h3>
+
+problem Decription:
+
+<h4>How to Run</h4>
+* First Run the Server file 
+* Run the Client file 
+
+<h4>Project Gui</h4>
+<img src="https://github.com/Mohamed-Hamdy/Sockets-Programming-Applications/blob/master/Chat-Application/ScreenShot.png" alt="Project Gui">
+
+<h4><a href="https://github.com/Mohamed-Hamdy/Sockets-Programming-Applications/tree/master/Chat-Application">Project Code</a></h3>
 
 
 <hr>
